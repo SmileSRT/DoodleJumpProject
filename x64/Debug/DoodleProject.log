@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\ekate\source\repos\DoodleProject\main.cpp(30,20): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\ekate\source\repos\DoodleProject\main.cpp(45,38): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\ekate\source\repos\DoodleProject\main.cpp(49,37): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\ekate\source\repos\DoodleProject\main.cpp(68,21): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  DoodleProject.vcxproj -> C:\Users\ekate\source\repos\DoodleProject\x64\Debug\DoodleProject.exe
